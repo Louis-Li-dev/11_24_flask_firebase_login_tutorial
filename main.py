@@ -14,7 +14,7 @@ firebase = pyrebase.initialize_app(config)
 auth = firebase.auth()
 
 # Home Route (Landing Page)
-@app.route('/home')
+@app.route('/')
 def index():
     return render_template('index.html')
 def get_user_info(user):
