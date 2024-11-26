@@ -10,7 +10,18 @@
 <h1>Idea</h1>
 
 <img src="https://github.com/user-attachments/assets/f79cf821-8eee-459e-97bb-6e38c03dea39" style="height:500px;"/>
+<h1>Code for headers</h1>
+<pre>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas/5.0.1/tocas.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocas/5.0.1/tocas.min.js"></script>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</pre>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <h1>Simple demo</h1> 
   <div>
